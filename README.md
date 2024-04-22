@@ -12,5 +12,7 @@ The Categorical Naive Bayes implementation is tailored for categorical features.
 
 These questions has been answered:
 
-e.1 How can I measure the performance of my model?
-e.2 What are: Accuracy, Confusion Matrix, Precision, Recall & F1 Score, ROC & AUC. Log Loss?
+<ol>
+<li>e.1 How can I measure the performance of my model?</li>
+<li>e.2 What are: Accuracy, Confusion Matrix, Precision, Recall & F1 Score, ROC & AUC. Log Loss?</li>
+</ol>
